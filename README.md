@@ -9,11 +9,11 @@ Baseado no jogo da mega sena que fiz no meu curso de .NET Maui, eu tive a brilha
 
 Clone este repositório:
 ```bash
-git clone https://github.com/anajulialeite/ASP-.NET-MVC.git
+git clone https://github.com/anajulialeite/Mega_Sena
 ```
 Navegue até a página do projeto:
 ```bash
-cd ASP-.NET-MVC
+cd Mega_Sena
 ```
 Restaure as dependências:
 ```bash

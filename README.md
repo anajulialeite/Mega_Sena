@@ -41,7 +41,7 @@ https://localhost:2500
 ## Pré-requisitos
 
 <li>.NET SDK Instalados</li>
-<li>Um editor como Visual Studio 2022 ou Visual Studio Code</li>
+<li>Um editor como Visual Studio 2026 ou Visual Studio Code</li>
 
 ## Autora
 

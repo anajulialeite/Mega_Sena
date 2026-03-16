@@ -1,6 +1,6 @@
 # Mega Sena
 
-Baseado no jogo da mega sena que fiz no meu curso de .NET Maui, eu tive a brilhante ideia de fazer o meu próprio jogo usando uma API que simula o mais próximo de um jogo real.
+Baseado no jogo da mega sena que fiz no meu curso de .NET Maui, eu tive a brilhante ideia de fazer o meu próprio jogo usando uma API que simula o mais próximo de um jogo real, clica em sortear e 6 números aparecerão, agora é só jogar e tentar a sorte.
 
 ## Demonstração
 

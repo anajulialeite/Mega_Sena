@@ -4,6 +4,7 @@ Baseado no jogo da mega sena que fiz no meu curso de .NET Maui, eu tive a brilha
 
 ## Demonstração
 
+<img src="Imagem/Mega Sena.png" alt="Portifolio" align="center" width="300"/>
 
 ## Instrução para Executar
 

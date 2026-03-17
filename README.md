@@ -1,9 +1,14 @@
 # Mega Sena
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" align="left" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" align="left" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" align="center" width="50" height="50"/>
+
 Baseado no jogo da mega sena que fiz no meu curso de .NET Maui, eu tive a brilhante ideia de fazer o meu próprio jogo usando uma API que simula o mais próximo de um jogo real, clica em sortear e 6 números aparecerão, agora é só jogar e tentar a sorte.
 
 ## Demonstração
 
+<img src="Imagem/Mega Sena.png" alt="Portifolio" align="center" width="300"/>
 
 ## Instrução para Executar
 
@@ -40,7 +45,7 @@ https://localhost:2500
 ## Pré-requisitos
 
 <li>.NET SDK Instalados</li>
-<li>Um editor como Visual Studio 2022 ou Visual Studio Code</li>
+<li>Um editor como Visual Studio 2026 ou Visual Studio Code</li>
 
 ## Autora
 

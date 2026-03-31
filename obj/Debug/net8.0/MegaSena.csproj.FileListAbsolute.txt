@@ -1,0 +1,6 @@
+C:\Users\Master\Documents\Estudos\Mega Sena\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Master\Documents\Estudos\Mega Sena\obj\Debug\net8.0\MegaSena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Documents\Estudos\Mega Sena\obj\Debug\net8.0\MegaSena.AssemblyInfoInputs.cache
+C:\Users\Master\Documents\Estudos\Mega Sena\obj\Debug\net8.0\MegaSena.AssemblyInfo.cs
+C:\Users\Master\Documents\Estudos\Mega Sena\obj\Debug\net8.0\MegaSena.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\Estudos\Mega Sena\obj\Debug\net8.0\MegaSena.MvcApplicationPartsAssemblyInfo.cache
